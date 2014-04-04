@@ -1,0 +1,41 @@
+.emi-container {width:300px;min-height:630px;font-family:verdana}#osemi-header {background:#000;margin:-1px 0 0 -1px!important;height:38px!important;width:300px!important;padding:0!important;border:0 none!important;color:#fff;text-align:center;line-height:35px;font-size:20px}
+#emi-container-full {width:100%;height: auto;font-family:verdana}#osemi-header {background:#000;margin:-1px 0 0 -1px!important;height:38px!important;width:300px!important;padding:0!important;border:0 none!important;color:#fff;text-align:center;line-height:35px;font-size:20px}
+.osemi-term {padding-top:10px!important;float:left!important;width:50px!important;margin-bottom:8px!important}
+.osemi-term input[type=text] {width:50px}
+.osemi-tenurechoice {float:right!important;height:32px!important;margin: 0px -7px 0 5px!important;padding-top:5px!important;width:75px!important}
+.emi-container table tr td {font-size:12px}
+#emi-container-full table tr td {font-size:12px}
+#container {margin-left: -43px;width:500px;margin-top:10px;height:250px;text-align:left;line-height:normal;z-index:0;-webkit-tap-highlight-color:rgba(0,0,0,0);font-family:Helvetica, Arial, Verdana, sans-serif;font-size:13px;font-weight:400;color:#888}
+.emi-container #interest_rate,.emi-container #tenure {margin:0 0 0 10px!important;width:45px!important}
+#emi-container-full #interest_rate,.emi-container-full #tenure {margin:0 0 0 10px!important;width:45px!important}
+#outstanding_principle {margin:0 0 0 10px!important;width:79px!important}
+tr.intrate span,tr.outstanamount span {background:none repeat scroll 0 0 #EDEDED!important;border-bottom:1px solid #DBDAD7!important;border-left:0 none!important;border-right:1px solid #DBDAD7!important;border-top:1px solid #DBDAD7!important;display:inline-block!important;height:32px!important;line-height:32px!important;margin:0!important;padding:0!important;text-align:center!important;vertical-align:top!important;width:35px!important}
+.emi-form input[type="text"] {background:none repeat scroll 0 0 #FFF!important;border:1px solid #DBDAD7!important;box-shadow:1px 1px 4px #F4F4F4 inset!important;font:normal 13px/1.5 Helvetica, Arial, Verdana, Sans-serif!important;height:32px!important;line-height:32px!important;padding:0 10px!important;-webkit-appearance:none!important;-webkit-border-radius:0!important;border-radius:0!important}
+#osemi-summary {background:none repeat scroll 0 0 #FFF!important;border-bottom:1px solid #DBDAD7!important;clear:both!important;float:left!important;height:200px!important;margin:0!important;width:298px!important;overflow:hidden!important}
+#osemi-monthlypayment {background:none repeat scroll 0 0 #FFF!important;margin:0!important;padding:10px 0!important;text-align:center!important;border-bottom:1px dotted #DBDAD7!important;height:50px!important}#osemi-summary h4 {color:#222222!important;font:bold 14px/1.5 'open_sansregular' !important;margin:0 auto!important;padding:0!important}
+#osemi-summary {text-align:center}
+.clear-style{clear:both;}
+#osp_range{margin: 10px 0px 5px 0px;}
+#osir_range{margin: 10px 0px 5px 0px;}
+#emi-container-full #osemi-header {width:438px !important;}
+#emi-container-full .emi-form{width:50%;float:left;border: solid 1px #ccc;}
+#emi-container-full #container{margin-left: 0px}
+#emi-container-full #osemi-summary{width: 50%;float: left;clear: none !important;border: solid 1px #ccc;border-radius: 10px;margin-left: 10px !important;height: 250px !important;}
+.entry #emipaymenttable table td, .entry #emipaymenttable table th  {padding: .35em 1.387em;}
+.entry #emipaymenttable table th.pa,.entry #emipaymenttable table td.pa{background:#88a725;color:#fff;}
+.entry #emipaymenttable table th.int,.entry #emipaymenttable table td.int{background: #ed8c2b;color:#fff;}
+.entry #emipaymenttable table th.tp,.entry #emipaymenttable table td.tp{background: #eeeeee;color:#000;}
+.entry #emipaymenttable table th.tbal,.entry #emipaymenttable table td.tbal{background: #A1A2C2;color: #fff;}
+.entry #emipaymenttable table th.mthy,.entry #emipaymenttable table td.mthy{background: #95AFAF;color: #fff;}
+ #emipaymenttable table tbody td,#emipaymenttable table tbody th {border-bottom: 1px solid #C7C7C7;}
+ #osemi-mthbrekup{background: #4e4e4e;margin: -1px 0 0 -1px!important;height: 38px!important;width: 100%;padding: 0!important;border: 0 none!important;color: #fff;text-align: center;line-height: 35px;font-size: 20px;}
+#emipaymenttable{width:100%;overflow: scroll}
+ @media only screen and (max-width:700px){
+    #emi-container-full #osemi-header{width:98.52% !important;}
+    #emi-container-full .emi-form{width:98%;margin-bottom: 10px;}
+    #emi-container-full #osemi-summary{width:90% !important;}
+    }
+@media only screen and (max-width:500px){#container{width:350px;height:250px;}}
+@media only screen and (max-width:350px){#container{width:270px;height:250px;overflow: hidden;}}
+
+
